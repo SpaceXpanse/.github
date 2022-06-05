@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # Our mission
-The **main goal** that we pursue is simple yet proved difficult: t*o introduce technology behind the blockchain into the real world, to help it become more suitable for every day use and not to be just an investment opportunity for a few*. We think this can be achieved by easing the learning curve through **gamification**. We also want to turn the game around /pun intended/ and for the people to start making money while playing and not vice versa, using the so-called **Play And Earn** model.
+The **main goal** that we pursue is simple yet proved difficult: t*o introduce technology behind the blockchain into the real world, to help it become more suitable for every day use and not to be just an investment opportunity for a few*. We think this can be achieved by easing the learning curve through **gamification**. We also want to turn the game around /pun intended/ and for the people to start making money while playing and not vice versa, using the so-called **Play and Earn** model.
 
 The outcome of this desire will be **unstoppable, unreversible, serverless blockchain backed ecosystem**, in which any kind of applications can be developed using your favorite programming language in the process – *your imagination is the only limit*. 
 
