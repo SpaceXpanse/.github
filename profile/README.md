@@ -13,6 +13,6 @@ The **main goal** that we pursue is simple yet proved difficult: t*o introduce t
 
 The outcome of this desire will be **unstoppable, unreversible, serverless blockchain backed ecosystem**, in which any kind of applications can be developed using your favorite programming language in the process – *your imagination is the only limit*. 
 
-To showcase the idea we decided to make a game or two: the **first** one will be *open source sandbox single player game* with near real physical forces and the **second** is based on the first one but *multiplayer with trustless ownership, player-driven open economy* and closed source code for the game engine and logic. And because we truly believe in the opportunities that **Space ex**ploration will give us, both are based in our *Solar system* for starters. 
+To showcase the idea we decided to make a game or two: the **first** one will be *open source sandbox single player game* with near real physical forces and the **second** is based on the first one but *multiplayer with trustless asset ownership, player-driven open economy* and closed source code for the game engine and logic. And because we truly believe in the opportunities that **Space ex**ploration will give us, both are based in our *Solar system* for starters. 
 
 We will continue to broaden the boundaries of this platform even further, making it as vast and independent as humanly/softwarely possible. Like Space itself.
