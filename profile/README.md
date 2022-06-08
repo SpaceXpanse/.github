@@ -8,11 +8,25 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Our mission
-The **main goal** that we pursue is simple yet proved difficult: t*o introduce technology behind the blockchain into the real world, to help it become more suitable for every day use and not to be just an investment opportunity for a few*. We think this can be achieved by easing the learning curve through **gamification**. We also want to turn the game around /pun intended/ and for the people to start making money while playing and not vice versa, using the so-called **Play and Earn** model.
+## What is SpaceXpanse?
+It is a decentralized information registration, storage and transfer platform, based on Bitcoin and other top-notch cryptocurrencies.
 
-The outcome of this desire will be **unstoppable, unreversible, serverless blockchain backed ecosystem**, in which any kind of applications can be developed using your favorite programming language in the process – *your imagination is the only limit*. 
+It is primarily aimed at decentralized blockchain application creation and trustless asset management.
 
-To showcase the idea we decided to make a game or two: the **first** one will be *open source sandbox single player game* with near real physical forces and the **second** is based on the first one but *multiplayer with trustless asset ownership, player-driven open economy* and closed source code for the game engine and logic. And because we truly believe in the opportunities that **Space ex**ploration will give us, both are based in our *Solar system* for starters. 
+[SpaceXpanse ROD Core wallet](http://https://github.com/SpaceXpanse/rod-core-wallet "SpaceXpanse ROD Core") is the first layer of the platform.
 
-We will continue to broaden the boundaries of this platform even further, making it as vast and independent as humanly/softwarely possible. Like Space itself.
+## What does SpaceXpanse do?
+**SpaceXpanse: Next-Gen Trustless Blockchain Metaverse and NFT Platform** is made for development of games and other complex decentralized applications and with a convenient creation of immersive user experience in mind, so it can:
+
+● Create, store and transact ROD coins, the main SpaceXpanse digital currency.
+● Allow creation of Trustless Accounts - securely record and transfer arbitrary names (keys) in the blockchain.
+● Provide secure storage of Data in the blockchain.
+● Create Virtual Currencies - allows minting and trading of tokens.
+● Create other Virtual Assets (NFTs) - storage, ownership and management.
+
+## More Information
+You may check SpaceXpanse ROD coin [website](https://rod.spacexpanse.org/ "website") or to [specs](https://github.com/spacexpanse/rod-core-wallet/tree/0.6.5/doc/spacexpanse/ "SpaceXpanse specs") if you are looking for more information.
+
+Documentation and tutotials are [here](https://github.com/SpaceXpanse/Documentation/wiki "Wiki").
+
+For problems with SpaceXpanse ROD Core you can [create an issue](http:/https://github.com/SpaceXpanse/rod-core-wallet/issues "create an issue").
