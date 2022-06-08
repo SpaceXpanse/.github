@@ -18,11 +18,11 @@ It is primarily aimed at decentralized blockchain application creation and trust
 ## What does SpaceXpanse do?
 **SpaceXpanse: Next-Gen Trustless Blockchain Metaverse and NFT Platform** is made for development of games and other complex decentralized applications and with a convenient creation of immersive user experience in mind, so it can:
 
-● Create, store and transact ROD coins, the main SpaceXpanse digital currency.
-● Allow creation of Trustless Accounts - securely record and transfer arbitrary names (keys) in the blockchain.
-● Provide secure storage of Data in the blockchain.
-● Create Virtual Currencies - allows minting and trading of tokens.
-● Create other Virtual Assets (NFTs) - storage, ownership and management.
+● Create, store and transact ROD coins, the main SpaceXpanse digital currency.  
+● Allow creation of Trustless Accounts - securely record and transfer arbitrary names (keys) in the blockchain.  
+● Provide secure storage of Data in the blockchain.  
+● Create Virtual Currencies - allows minting and trading of tokens.  
+● Create other Virtual Assets (NFTs) - storage, ownership and management.  
 
 ## More Information
 You may check SpaceXpanse ROD coin [website](https://rod.spacexpanse.org/ "website") or to [specs](https://github.com/spacexpanse/rod-core-wallet/tree/0.6.5/doc/spacexpanse/ "SpaceXpanse specs") if you are looking for more information.
