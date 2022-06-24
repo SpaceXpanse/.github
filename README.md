@@ -1,1 +1,1 @@
-# SpaceXpanse Forum
+# SpaceXpanse Discussions
