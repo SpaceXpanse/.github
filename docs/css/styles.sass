@@ -2,5 +2,16 @@
 ---
 
 // start content
-.font {
-  font-size: 1.2em; }
+
+$font-stack: Helvetica, sans-serif;
+$font-size: 12px;
+$primary-color: #000;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.content {
+  font-size: $font-size; 
+}
