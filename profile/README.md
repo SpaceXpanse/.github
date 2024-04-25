@@ -33,7 +33,7 @@ In these hectic times, we often ask ourselves, what is a good opportunity? Who c
 And the blockchain and its [core wallet](http://https://github.com/SpaceXpanse/rod-core-wallet "ROD core wallet") serve as the foundational layer in the platform, providing essential functions such as secure value and data storage, transaction processing, mining, and network connectivity for users to interact with the blockchain network. Additionally, the ROD core wallet serves as a tool for users to manage their ROD holdings and participate in various activities within the platform, further enhancing its utility.
 
 ## More Information
-You may check SpaceXpanse Multiverse [website](https://rod.spacexpanse.org/ "website") or ROD blockchain [specs](https://github.com/spacexpanse/rod-core-wallet/tree/0.6.5/doc/spacexpanse/ "SpaceXpanse specs") if you are looking for more information.  
+You may check SpaceXpanse Multiverse [website](https://www.spacexpanse.org/ "SpaceXpanse website") or ROD blockchain [specs](https://github.com/spacexpanse/rod-core-wallet/tree/0.6.8/doc/spacexpanse/ "SpaceXpanse specs") if you are looking for more information.  
 
 Documentation and tutotials are [here](https://github.com/SpaceXpanse/Documentation/wiki "Wiki").  
 
